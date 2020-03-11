@@ -1,0 +1,18 @@
+﻿  Kot.cpp
+  PIes.cpp
+  Schronisko.cpp
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Projekt 4. - indywidualny\Schronisko\Schronisko\Schronisko.cpp(6): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Projekt 4. - indywidualny\Schronisko\Schronisko\Schronisko.cpp(14): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Projekt 4. - indywidualny\Schronisko\Schronisko\Schronisko.cpp(273): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Projekt 4. - indywidualny\Schronisko\Schronisko\Schronisko.cpp(298): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Projekt 4. - indywidualny\Schronisko\Schronisko\Schronisko.cpp(275): warning C4101: "ile_tab": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Projekt 4. - indywidualny\Schronisko\Schronisko\Schronisko.cpp(353): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Projekt 4. - indywidualny\Schronisko\Schronisko\Schronisko.cpp(364): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Projekt 4. - indywidualny\Schronisko\Schronisko\Schronisko.cpp(412): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Projekt 4. - indywidualny\Schronisko\Schronisko\Schronisko.cpp(423): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Source.cpp
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Projekt 4. - indywidualny\Schronisko\Schronisko\Source.cpp(20): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Projekt 4. - indywidualny\Schronisko\Schronisko\Source.cpp(217): warning C4101: "kod": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Projekt 4. - indywidualny\Schronisko\Schronisko\Source.cpp(105): warning C4715: "wczytaj_z_pliku_psa”: niewszystkie ścieżki kodu zwracają wartość
+  Schronisko.vcxproj -> C:\Users\awilk\Desktop\Studia\sem 4\Projekty C++\sem4 - ważna część\Projekt 4. - indywidualny\Schronisko\Debug\Schronisko.exe
